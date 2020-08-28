@@ -1,0 +1,1 @@
+data class User(var playerName:String, var score: Int)
